@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://github.com/iamjunaidtt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="iamjunaidtt" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/iamjunaidtt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/iamjunaidtt/" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23114190/junaid-tt" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23114190/junaid-tt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23114190/junaid-tt" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamjunaidtt" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamjunaidtt" height="30" width="40" /></a>
 </p>
