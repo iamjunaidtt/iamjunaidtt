@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm Junaid TT
 
-## I'm a Multi Cloud Data Engineer with Software expertise
+## I'm a Multi Cloud Data Engineer with Software Expertise
 
 - 🔭 I’m currently working on Cloud and Data Engineering Projects
 - 👀 I’m interested in Cloud/Data Engineering
