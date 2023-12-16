@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Cloud and Data Engineering Projects
 - 👀 I’m interested in Cloud/Data Engineering
+- 💬 Ask me about **Bigdata & cloud stack related technologies**
 - 🌱 I’m currently learning AWS | Azure | Kubernates | LLMs
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: **_Keep striving for progress, not perfection_**
