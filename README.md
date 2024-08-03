@@ -1,10 +1,10 @@
 # Hello and Welcome 👋, I'm Junaid TT
 
-## I'm a AI Enabled Data Engineer with Software Expertise
+## I'm a Software Engineer & Cloud Architect Delivering AI+Date Enabled Analytic Solutions & Cloud Native Applicaitons
 
 - 🔭 I’m currently working on Cloud and Data Engineering Projects
-- 👀 I’m interested in Cloud/Data Engineering
-- 💬 Ask me about **Bigdata & cloud stack related technologies**
+- 👀 I’m interested in Cloud/ AI + Data Engineering
+- 💬 Ask me about **Software Engineering & cloud stack related technologies**
 - 🌱 I’m currently learning AWS | Azure | Kubernates | LLMs
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: **_Keep striving for progress, not perfection_**
