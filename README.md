@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm Junaid TT
 
-## I'm a Software Engineer & Cloud Architect Delivering AI+Date Enabled Analytic Solutions & Cloud Native Applicaitons
+## I'm a Software Engineer & Cloud Architect Delivering AI Enabled Analytic Solutions & Cloud Native Applicaitons
 
 - 🔭 I’m currently working on Cloud and Data Engineering Projects
 - 👀 I’m interested in Cloud/ AI + Data Engineering
